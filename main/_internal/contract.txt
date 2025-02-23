@@ -1,0 +1,99 @@
+Public Agreement and Software License Agreement for Nexy
+
+Version 1.0, Date: October 12, 2024
+
+This Public Agreement and Software License Agreement ("Agreement") governs the use of Nexy ("the Software"), provided by 9495-2421 QUEBEC INC. ("we," "us," "our," or "Licensor"). By using the Software, you ("User") agree to be bound by the terms of this Agreement.
+
+1. Introduction
+
+This Agreement combines the terms of use for Nexy and the Software License Agreement. It outlines the rights, restrictions, and obligations of both the User and the Licensor.
+
+2. Grant of Rights and License
+
+The Licensor grants the User the following limited rights:
+- A non-exclusive, non-transferable license to use the Software for personal or business purposes, subject to the terms of this Agreement and payment of the applicable subscription fee.
+- The right to install and use the Software on a single device solely for the purposes specified in the official documentation ("Intended Use").
+- The right to create one backup copy of the Software for personal use only.
+
+3. Restrictions
+
+The User is prohibited from:
+- Distributing, sublicensing, selling, leasing, or transferring the Software to third parties in any form.
+- Modifying, adapting, decompiling, disassembling, reverse engineering, or attempting to derive the source code of the Software.
+- Using the Software or any part of its code to create derivative works, incorporate into other software, or use in their own projects.
+- Copying the Software, except for one backup copy as permitted above.
+- Using the Software for commercial purposes without the prior written consent of the Licensor.
+- Attempting to gain unauthorized access to Nexy or its related systems.
+- Sharing account credentials or allowing others to use your account.
+
+4. Payments and Subscription
+
+4.1 Fees
+Nexy is a paid product with a single subscription option. You agree to pay the fee associated with your use of the Software according to the current pricing.
+
+4.2 Subscription Terms
+- Your subscription will automatically renew unless cancelled.
+- You can cancel your subscription at any time through your account settings or by contacting our customer support. The cancellation will take effect at the end of your current billing period.
+- If you cancel your subscription, you will continue to have access to the Software until the end of your current billing period.
+
+4.3 Refunds
+All sales are final. No refunds will be issued once the subscription fee has been paid, even if you cancel your subscription mid-cycle.
+
+5. Data Collection and Privacy
+
+5.1 Types of Data Collected
+We collect and process the following types of data:
+- User-provided information (e.g., registration details, user preferences)
+- Usage data (e.g., features used, time spent in the application)
+- Device information (e.g., device type, operating system)
+- Performance data (e.g., crash reports, error logs)
+- Payment information (e.g., transaction records, billing details)
+
+5.2 Purpose of Data Collection
+We collect this data to:
+- Improve the Software's functionality and user experience
+- Provide customer support
+- Process payments and manage subscriptions
+- Analyze usage patterns and optimize performance
+- Comply with legal obligations
+
+5.3 Data Protection
+We implement appropriate technical and organizational measures to protect your data against unauthorized or unlawful processing, accidental loss, destruction, or damage.
+
+6. Intellectual Property and Copyright
+
+All intellectual property rights in Nexy, including any modifications, enhancements, and derivatives, remain the exclusive property of 9495-2421 QUEBEC INC. The User agrees to retain all copyright and other intellectual property notices included with the Software and its documentation, and to maintain such notices on all copies of the Software.
+
+7. Termination
+
+This Agreement and the User's right to use the Software will automatically terminate if the User:
+- Violates any of the restrictions outlined in Section 3.
+- Uses the Software for purposes other than the Intended Use as specified in the official documentation.
+- Fails to pay the required subscription fee.
+
+Upon termination, the User must immediately cease using the Software and delete all copies of the Software in their possession, including backup copies.
+
+8. Disclaimers and Limitations of Liability
+
+The Software is provided "as is," without any warranties, express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall the Licensor be liable for any damages (including, but not limited to, loss of data, loss of profits, or business interruption) arising out of the use or inability to use the Software.
+
+9. Changes to this Agreement
+
+We may modify this Agreement at any time. We will notify you of any changes by posting the new Agreement on our website or through Nexy. Your continued use of Nexy after any such changes constitutes your acceptance of the new Agreement.
+
+10. Governing Law and Jurisdiction
+
+This Agreement shall be governed by and construed in accordance with the laws of Quebec, Canada, without regard to its conflict of law provisions. Any disputes arising under or in connection with this Agreement shall be resolved in the courts of Quebec, Canada.
+
+11. Miscellaneous Provisions
+
+- Severability: If any provision of this Agreement is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary, so that this Agreement shall otherwise remain in full force and effect.
+- Entire Agreement: This Agreement constitutes the entire agreement between the User and the Licensor regarding the use of the Software, superseding any prior agreements between the parties related to this subject matter.
+
+12. Contact Us
+
+If you have any questions about this Agreement, please contact us at [Your Contact Information].
+
+By using Nexy, you acknowledge that you have read this Agreement, understood it, and agree to be bound by its terms and conditions.
+
+Last updated: October 12, 2024
